@@ -222,10 +222,17 @@ a {
 
 .site-footer {
   padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1;
   color: #ddd;
   background: #555;
+}
+
+.site-footer-button-bar {
+  text-align: center;
+  padding: 1em;
 }
 
 .site-footer-owner {
