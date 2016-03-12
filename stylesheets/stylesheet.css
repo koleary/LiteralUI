@@ -229,6 +229,9 @@ a {
   color: #ddd;
   background: #555;
 }
+.site-footer a {
+  color: #fff;
+}
 
 .site-footer-button-bar {
   text-align: center;
